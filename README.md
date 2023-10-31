@@ -9,5 +9,5 @@ This tribute project is a brief showcase of Elon Musk's incredible journey, high
 
 ## Preview
 
- - Elon Musk![preview](https://github.com/Sravanireddyg/VisionX/assets/95694239/51ad4601-f621-49fa-8108-7d58e5a91199)
+![preview](https://github.com/Sravanireddyg/VisionX/assets/95694239/51ad4601-f621-49fa-8108-7d58e5a91199)
 > "Great companies are built on great products."
